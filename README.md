@@ -152,8 +152,8 @@ To run this project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/AlexFierro9/German-Credit-Card-Dataset-EDA.git
-    cd German-Credit-Card-Dataset-EDA
+    git clone https://github.com/AlexFierro9/German-Credit-EDA.git
+    cd German-Credit-EDA
     ```
 2.  **Create and activate a virtual environment (recommended):**
     ```bash

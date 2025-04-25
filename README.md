@@ -6,7 +6,7 @@ This repository contains a comprehensive data science project focused on predict
 
 The goal is not just to build a predictive model, but also to understand *why* it makes certain decisions, providing valuable, actionable insights for credit evaluation processes.
 
-[**Project Report**](https://alexfierro9.github.io/German-Credit-EDA/Report.html)
+[**Project Report**](https://shiny-chebakia-fc8330.netlify.app/)
 
 [**Video based Project Demo**](https://youtu.be/m9oxpmG2RTA)
 
